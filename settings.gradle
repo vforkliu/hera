@@ -1,3 +1,4 @@
 rootProject.name='Hera'
 include ':app'
 include ':base'
+include ':net'
